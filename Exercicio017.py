@@ -1,4 +1,4 @@
-#Desafio 17
+#Desafio 17: Utilizando a biblioteca emoji
 
 import emoji
 print("-" * 45)
